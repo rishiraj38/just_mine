@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import "./App.css";
 
 const images = [
-  "/public/Image1.jpeg",
-  "/public/image2.jpeg",
-  "/public/image3.jpeg",
+  "/Image1.jpeg",
+  "/image2.jpeg",
+  "/image3.jpeg",
 ];
 
 function App() {
